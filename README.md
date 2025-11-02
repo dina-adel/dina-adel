@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dina 👋
 
-<!--
-**dina-adel/dina-adel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer specializing in computer vision and reinforcement learning. Currently doing ML research at UBC focusing on self-supervised learning for medical imaging.
 
-Here are some ideas to get you started:
+## Tech Stack
+**ML:** PyTorch, TensorFlow, OpenCV, scikit-learn  
+**Languages:** Python, C++, SQL  
+**Cloud:** AWS (EC2, ECS, Lambda, S3), Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- Building self-supervised learning models for medical image analysis
+- Developed real-time video processing systems (Wav2Lip, generative models)
+- Deployed production ML models on AWS infrastructure
+
+## Connect
+📧 d.elkholy.14@gmail.com  
+📍 Kelowna, BC, Canada
+
+Check out my projects below! ⬇️
